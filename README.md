@@ -19,3 +19,26 @@ Segments based on consumer personality traits, attitudes, interests, and lifesty
 ### Overview:
 I have been given a comprehensive file that contains all the pertinent data pertaining to ecommerce transactions. This valuable data includes the date and time of the sale, the location of the customer's shipping address, and the price of a single unit for the period of 2016 to 2017.
 
+### Steps to Cover:
+Start by understanding the problem and objectives of the analysis. What are the business goals and how can data analysis help achieve them?
+
+Gain an understanding of the available data and develop some business sense by reviewing the data documentation, identifying potential data sources, and exploring any contextual information related to the data.
+
+Depending on the problem, you may need to perform exploratory data analysis (EDA) to understand the data better. This may include identifying missing data, outliers, and other data quality issues that may impact the analysis.
+
+Provide a summary of your EDA and any insights gained from the data analysis. This could include data distributions, correlations, and other relevant statistical measures.
+
+### Python & Pandas Functions Used:
+Here are some commonly used Pandas functions in RFM analysis:
+1. Groupby()
+2. Agg()
+3. apply()
+4. lambda
+5. to_datetime()
+6. to_csv()
+7. quantile()
+
+### Key Insights :
+1. We can observe that Price has high correlation with quantity  but there is no correlations between any other features.
+2. 
+
