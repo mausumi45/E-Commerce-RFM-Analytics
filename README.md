@@ -40,5 +40,10 @@ Here are some commonly used Pandas functions in RFM analysis:
 
 ### Key Insights :
 1. We can observe that Price has high correlation with quantity  but there is no correlations between any other features.
-2. 
+2. Location 36 has maximum sales.
+3. From month analysis , November has Maximum sales.
+4. From hour analysis, 12 is the most busiest hour of the day.
+5. 
+
+
 
