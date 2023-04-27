@@ -1,5 +1,5 @@
 # E-Commerce-RFM-Analytics-Project
-![header](https://user-images.githubusercontent.com/98810351/234837782-1410a9f5-5343-45be-8a5b-561e798941a6.jpg)
+![Webp net-resizeimage-22](https://user-images.githubusercontent.com/98810351/234838276-0ff89eb9-455b-4f6d-946c-c2157c674c96.jpg)
 
 
 ### Objective:
