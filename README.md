@@ -24,9 +24,9 @@ Start by understanding the problem and objectives of the analysis. What are the 
 
 Gain an understanding of the available data and develop some business sense by reviewing the data documentation, identifying potential data sources, and exploring any contextual information related to the data.
 
-Depending on the problem, you may need to perform exploratory data analysis (EDA) to understand the data better. This may include identifying missing data, outliers, and other data quality issues that may impact the analysis.
+Depending on the problem, I need to perform exploratory data analysis (EDA) to understand the data better. This may include identifying missing data, outliers, and other data quality issues that may impact the analysis.
 
-Provide a summary of your EDA and any insights gained from the data analysis. This could include data distributions, correlations, and other relevant statistical measures.
+Provide a summary of  EDA and any insights gained from the data analysis. This could include data distributions, correlations, and other relevant statistical measures.
 
 ### Python & Pandas Functions Used:
 Here are some commonly used Pandas functions in RFM analysis:
@@ -39,11 +39,17 @@ Here are some commonly used Pandas functions in RFM analysis:
 7. quantile()
 
 ### Key Insights :
-1. We can observe that Price has high correlation with quantity  but there is no correlations between any other features.
-2. Location 36 has maximum sales.
-3. From month analysis , November has Maximum sales.
-4. From hour analysis, 12 is the most busiest hour of the day.
-5. 
+1. Price is highly correlated with quantity, while no significant correlations were found between any other features.
+2. Sales are highest at Location 36.
+3. November shows the highest sales based on monthly analysis.
+4. 12 PM is the busiest hour of the day according to hourly analysis.
+5. Top customers are those with the lowest recency, highest frequency, and highest monetary amounts.
+6. RFM segmentation revealed 10 distinct customer groups.
+7. Over 30% of customers have gold-level loyalty, 29% have platinum-level loyalty, 21% have silver-level loyalty, and the rest are titanium.
+8. CustomerID 4043 is the most loyal customer identified. 
+
+
+
 
 
 
