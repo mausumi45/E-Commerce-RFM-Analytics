@@ -38,6 +38,13 @@ Here are some commonly used Pandas functions in RFM analysis:
 6. to_csv()
 7. quantile()
 
+### Python Libraries Used:
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. datetime
+
 ### Key Insights :
 1. Price is highly correlated with quantity, while no significant correlations were found between any other features.
 2. Sales are highest at Location 36.
