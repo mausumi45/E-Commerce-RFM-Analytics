@@ -1,4 +1,6 @@
 # E-Commerce-RFM-Analytics-Project
+![download (2)](https://user-images.githubusercontent.com/98810351/234835848-d7ef68b2-124c-479c-b41f-aba018577875.png)
+
 
 ### Objective:
 In this project, I will utilize the RFM approach to analyze and segment the customers of an e-commerce company. This approach will help the company to enhance their retention and acquisition strategies, ultimately leading to improved performance.
